@@ -1,0 +1,142 @@
+Name,Parts,BLName,BLID ,LDraw,LDrawRGB,LEGOID,LEGOName,RGB,CMYK,Pantone,Notes
+BtLtBlue,19,,,,,,,,,,Clikits
+BtPink,30,,,,,,,,,,Clikits
+Curry,18,,,,,180,Curry,D7A94B,"10,36,90,0",131 C,
+DkNougat,11,,,,,128,Dark Nougat,AE7A59,"25,60,75,3",471 C,
+FFRed,0,,,,,176,Red Flip/Flop,,,,2001 Bionicle Promo Masks
+FFYellow,0,,,,,178,Yellow Flip/Flop,,,,2002 Bionicle gold masks
+FabuLime,34,,,,,,,,,,Fabuland
+FabuOrange,21,,,,,,,,,,Fabuland
+LtPink,46,,,,,,,,,,
+MetallicCopper,1,,,,,,,,,,
+MetallicWhite,4,,,,,183,Metallic White,,,,
+NeonBlue,4,,,,,,,,,,
+PearlGreen,2,,,,,,,,,,Bionicle
+PearlescentPink,4,,,,,,,,,,
+RedPink,26,,,,,,,,,,Clikits
+TrLtGreen,25,,,,,,,,,,Clikits
+TrLtYellow,11,,,,,,,,,,Clikits
+TrSalmon,18,,,,,158,Tr. Flu. Red,E1A4C2,"0,45,0,0",211 C,
+White,133071,White,1,15,FFFFFF,1,White,F2F3F2,"5,3,4,0",CoolGrey 1 C,
+Tan,20819,Tan,2,19,E4CD9E,5,Brick yellow,D7C599,"14,21,47,0",467 C,
+Yellow,85145,Yellow,3,14,F2CD37,24,Bright yellow,F5CD2F,"0,19,100,0",116 C,
+Orange,7413,Orange,4,25,FE8A18,106,Bright orange,DA8540,"0,60,90,0",151 C,
+Red,119562,Red,5,4,C91A09,21,Bright red,C4281B,"0,100,100,0",032 C,
+Green,24767,Green,6,2,237841,28,Dark green,287F46,"100,15,100,0",348 C,
+Blue,78234,Blue,7,1,0055BF,23,Bright Blue,0D69AB,"100,47,0,0",293 C,
+OldBrown,8519,Brown,8,6,583927,25,Earth Orange,62473B,"62,79,93,22",469 C,
+OldGray,86689,Light Gray,9,7,9BA19D,2,Grey,A1A5A2,"40,28,34,2",422 C,Disc. 2003
+OldDkGray,22719,Dark Gray,10,8,6D6E5C,27,Dark grey,6D6E6C,"62,50,55,15",418 C,Disc. 2003
+Black,237479,Black,11,0,05131D,26,Black,1B2A34,"60,0,0,100",Process Black C,
+Clear,11516,Trans-Clear,12,47,FCFCFC,40,Transparent,ECECEC,"0,0,0,8",CoolGrey 1 C,
+Smoke,1789,Trans-Black,13,40,635F52,111,Tr. Brown,BFB7B1,"25,25,28,0",WarmGrey 3 C,
+TrBlue,4277,Trans-Dark Blue,14,33,0020A0,43,Tr. Blue,7BB6E8,"60,5,0,0",298 C,
+TrLtBlue,3066,Trans-Light Blue,15,41,AEEFEC,42,Tr. Lg blue,C1DFF0,"27,0,5,0",304 C,
+TrNeonGreen,3788,Trans-Neon Green,16,42,C0FF00,49,Tr. Flu. Green,F8F184,"5,0,65,0",387 C,
+TrRed,7099,Trans-Red,17,36,C91A09,41,Tr. Red,CD544B,"0,85,75,0",185 C,
+TrNeonOrange,3023,Trans-Neon Orange,18,57,FF800D,47,Tr. Flu. Reddish orange,D9856C,"0,60,60,0",165 C,
+TrYellow,4530,Trans-Yellow,19,46,F5CD2F,44,Tr. Yellow,F7F18D,"5,0,60,0",393 C,
+TrGreen,1974,Trans-Green,20,34,84B68D,48,Tr. Green,84B68D,"60,0,60,0",360 C,
+ChromeGold,877,Chrome Gold,21,334,BBA53D,,,,,,
+ChromeSilver,1287,Chrome Silver,22,383,E0E0E0,301,[Silver],,,,
+Pink,693,Pink,23,13,FC97AC,16,Pink,,,,Disc. 2004
+Purple,987,Purple,24,22,81007B,104,Bright violet,6B327B,"63,95,0,0",2592 C,
+Salmon,187,Salmon,25,12,F2705E,4,Brick Red,,,,
+LtSalmon,153,Light Salmon,26,100,FEBABD,100,Light red,EEC4B6,"0,27,24,0",169 C,
+Rust,20,Rust,27,216,B31004,216,Rust,8F4C2A,"18,82,97,30",174 C,
+Flesh,221,Flesh,28,92,D09168,18,Nougat,CC8E68,"11,53,68,0",472 C,
+EarthOrange,272,Earth Orange,29,366,FA9C1C,12,Light Orange Brown,CB8442,"10,58,90,0",1385 C,
+MdOrange,591,Medium Orange,31,462,FFA70B,105,Br. yellowish orange,E29B3F,"0,47,93,0",137 C,
+LtOrange,97,Light Orange,32,125,F9BA61,125,Light Orange,EAB891,"0,33,47,0",1555 C,
+LtYellow,327,Light Yellow,33,18,FBE696,3,Light yellow,F9E999,"0,13,50,0",1215 C,Disc. 2003
+Lime,4213,Lime,34,27,BBE90B,119,Br. yellowish green,A4BD46,"45,3,98,0",390 C,
+LtLime,25,Light Lime,35,120,D9E4A7,120,Lig. yellowish green,D9E4A7,"18,0,46,0",365 C,
+BtGreen,1251,Bright Green,36,10,4B9F4A,37,Bright Green,4B974A,"88,0,100,0",355 C,
+MdGreen,226,Medium Green,37,74,73DCA1,29,Medium green,A1C48B,"46,0,62,0",353 C,
+LtGreen,206,Light Green,38,17,C2DAB8,6,Light green,C2DAB8,"28,0,35,0",351 C,
+Teal,1053,Dark Turquoise,39,3,008F9B,107,Bright bluish green,008F9B,"100,3,47,0",327 C,
+LtTeal,37,Light Turquoise,40,11,55A5AF,116,Med. bluish green,55A5AF,"80,0,36,0",326 c,
+Aqua,203,Aqua,41,118,B3D7D1,118,Light bluish green,B7D7D5,"32,0,18,0",324 C,"Intro 1998, last 2006"
+MdBlue,3593,Medium Blue,42,73,5A93DB,102,Medium blue,6E99C9,"68,24,5,0",284 C,
+Violet,192,Violet,43,110,4354A3,110,Bright Bluish Violet,435493,"100,3,47,0",327 C,
+LtViolet,155,Light Violet,44,20,C9CAE2,39,Light bluish violet,C1CADE,"25,14,5,0",2706 C,
+GlowInTheDark,180,Glow In Dark Opaque,46,21,E0FFB0,50,Phosp. White,ECE8DE,"7,7,12,0",427 C,Also LEGO #294 (greenish)
+DkPink,1311,Dark Pink,47,5,C870A0,221,Bright Purple,CD6298,"2,79,0,0",232 C,Disc. 2004
+SandGreen,4496,Sand Green,48,378,A0BCAC,151,Sand green,789081,"60,25,53,10",624 C,
+ScalaGray,406,Very Light Gray,49,503,E6E3DA,103,Light grey,C7C1B7,"22,20,27,0",421 C,Disc. 2003
+TrPink,1149,Trans-Dark Pink,50,45,DF6695,113,Tr. Medi. reddish violet,E4ADC8,"0,40,0,0",230 c,
+TrPurple,430,Trans-Purple,51,37,640061,126,Tr. Bright bluish violet,A5A5CB,"37,32,0,0",271 C,
+ChromeBlue,23,Chrome Blue,52,61,6C96BF,,,,,,
+SandPurple,60,Sand Purple,54,373,8.45E+86,136,Sand violet,877C90,"49,51,29,5",666 C,
+SandBlue,1019,Sand Blue,55,379,6074A1,135,Sand blue,74869C,"63,38,27,4",5415 C,
+ParaPink,242,Light Pink,56,77,FECCCF,223,Light Pink,DC9095,"0,55,30,0",183 C,pre-1995
+ChromeBrass,29,Chrome Antique Brass,57,60,645A4C,,,,,,
+SandRed,560,Sand Red,58,335,D67572,153,Sand red,957976,"37,54,48,10",4995 C,
+DkRed,5920,Dark Red,59,320,720E0F,154,Dark red,7B2E2F,"45,100,90,11",194 C,
+TrLuWhite,186,Milky White,60,79,FFFFFF,20,Nature,,,,
+PearlLtGold,692,Pearl Light Gold,61,142,DCBC81,127,Gold,DCBC81,"10,27,60,0",156 C,
+LtBlue,387,Light Blue,62,9,B4D2E3,45,Light blue,B4D2E3,"33,4,9,0",545 C,
+NavyBlue,4191,Dark Blue,63,272,0A3463,140,Earth blue,203A56,"100,70,36,40",2955 C,
+ChromeGreen,2,Chrome Green,64,62,3CB371,,,,,,
+MetallicGold,159,Metallic Gold,65,,,,,,,,
+PearlLtGray,3713,Pearl Light Gray,66,135,9CA3A8,131,Silver,9CA3A8,"44,29,30,0",429 C,
+MetallicSilver,897,Metallic Silver,67,,,,,,,,
+DkOrange,856,Dark Orange,68,484,A95500,38,Dark Orange,A05F34,"30,76,95,3",471 C,
+DkTan,1320,Dark Tan,69,28,958A73,138,Sand yellow,958A73,"43,43,60,5",451 C,
+MetallicGreen,32,Metallic Green,70,,,200,Lemon Metallic,,,,
+Magenta,250,Magenta,71,26,923978,124,Bright reddish violet,923978,"33,95,8,5",241 C,
+MaerskBlue,670,Maersk Blue,72,313,3592C3,11,Pastel Blue,,,,Disc. 2004
+MdViolet,21,Medium Violet,73,,,,,,,,
+TrMdBlue,295,Trans-Medium Blue,74,143,CFE2F7,143,Tr. Flu. Blue,CFE2F7,"20,3,0,0",657 C,
+MdLime,148,Medium Lime,76,115,C7D23C,115,Med. yellowish green,C7D23C,"28,0,100,0",381 C,
+PearlDkGray,451,Pearl Dark Gray,77,148,575857,148,Metallic Dark Grey,575857,"77,67,67,10",446 C,
+PearlBlue,131,Metal Blue,78,137,7988A1,145,Sand blue metallic,7988a1,"60,38,23,4",652 C,
+DkGreen,1955,Dark Green,80,288,184632,141,Earth Green,27462C,"100,58,100,33",350 C,
+PearlDkGold,258,Flat Dark Gold,81,178,B48455,187,Sand Yellow Metallic,,,,"Bionicle, Knight's Kingdom"
+ChromePink,11,Chrome Pink,82,63,AA4D8E,,,,,,
+Pearlescent,47,Pearl White,83,183,F2F3F2,,,,,,
+PearlCopper,205,Copper,84,134,AE7A59,139,Copper,,,,
+DkStone,50228,Dark Bluish Gray,85,72,6C6E68,199,Dark stone grey,635F61,"70,63,60,10",431 C,
+MdStone,66528,Light Bluish Gray,86,71,A0A5A9,194,Medium stone grey,A3A2A4,"39,32,31,0",429 C,
+DoveBlue,105,Sky Blue,87,232,7DBFDD,232,Dove blue,7DBBDD,"60,0,10,0",311 C,
+RedBrown,10624,Reddish Brown,88,70,582A12,192,Reddish Brown,694027,"32,80,95,50",499 C,
+MdLilac,418,Dark Purple,89,85,3F3691,268,Medium Lilac,342B75,"95,95,0,0",2685 C,
+LtFlesh,346,Light Flesh,90,78,F6D7B3,283,Light Nougat,,,,
+DkFlesh,87,Dark Flesh,91,86,7C503A,217,Brown,7C5C45,"39,65,80,30",161 C,
+BtPurple,62,Light Purple,93,69,CD6298,198,Bright Reddish Lilac,8E4285,"40,90,0,0",254 C,
+DuploRose,33,Medium Dark Pink,94,351,F785B1,22,Medium Reddish Violet,C470A0,"10,72,0,0",2375 C,pre-1995
+PearlSilver,728,Flat Silver,95,179,898788,179,Silver flip/flop,,,,Bionicle 2002
+PaleOrange,8,Very Light Orange,96,68,F3CF9B,36,Light Yellowish Orange,F3CF9B,"0,21,45,0",148 C,
+RoyalBlue,219,Blue-Violet,97,112,6874CA,112,Medium Bluish Violet,6874AC,"70,52,0,0",2726 C,"Intro 2004, last 2005, KKII"
+TrDkOrange,1200,Trans-Orange,98,182,F08F1C,182,Tr. Bright Orange,,,,
+LtStone,350,Very Light Bluish Gray,99,151,E6E3E0,208,Light stone grey,E5E4DE,"10,7,12,0",428 C,
+TrPinkGlitter,119,Glitter Trans-Dark Pink,100,114,DF6695,114,Tr. Medium Reddish-Violet w. Glitter 2%,,,,
+ClearGlitter,7,Glitter Trans-Clear,101,117,FFFFFF,117,Transparent Glitter,,,,
+TrPurpleGlitter,11,Glitter Trans-Purple,102,129,640061,129,Tr. Bright Bluish Violet w. Glitter 2%,,,,
+CoolYellow,34,Bright Light Yellow,103,226,FFF03A,226,Cool Yellow,FDEA8C,"0,7,59,0",120 C,
+LtPurple,51,Bright Pink,104,29,E4ADC8,222,Light Purple,E4ADC8,"0,40,0,0",236 C,
+LtRoyalBlue,2,Bright Light Blue,105,212,9FC3E9,212,Light Royal blue,9FC3E9,"43,8,0,0",292 C,
+FabuBrown,106,Fabuland Brown,106,450,B67B50,,,,,,Fabuland
+TrLtPink,251,Trans-Pink,107,230,E4ADC8,,,,,,Clikits
+TrBtGreen,122,Trans-Bright Green,108,35,D9E4A7,311,Transparent Bright Green,,,,new 2010
+DkRoyalBlue,5,Dark Blue-Violet,109,23,2032B0,196,Dark Royal blue,,,,
+BtLtOrange,253,Bright Light Orange,110,191,F8BB3D,191,Flame yellowish orange,E8AB2D,"0,37,100,0",137 C,"Intro 2004, replaced 105"
+BlackGlitter,187,Speckle Black-Silver,111,132,0,132,[Black Glitter],,,,
+TrIceBlue,45,Trans-Very Lt Blue,113,43,C1DFF0,,,,,,Clikits
+TrLilac,34,Trans-Light Purple,114,236,96709F,,,,,,Clikits
+PearlGold,197,Pearl Gold,115,297,AA7F2E,297,Warm Gold,,,,new 2006
+BlackCopperGlitter,10,Speckle Black-Copper,116,75,0,,,,,,
+DkStoneGlitter,5,Speckle DBGray-Silver,117,76,635F61,,,,,,
+TrGlowInTheDark,9,Glow In Dark Trans,118,294,BDC6AD,294,Phosh. Green,,,,
+PearlVLGray,0,Pearl Very Light Gray,119,150,ABADAC,,,,,,"Belville, Bionicle"
+DkBrown,714,Dark Brown,120,308,352100,308,Dark Brown,,,,Dwarf Hair
+TrPeach,91,Trans-Neon Yellow,121,54,DAB000,157,Transparent Fluorescent Yellow,,,,
+ChromeBlack,3,Chrome Black,122,64,1B2A34,,,,,,
+MdDkFlesh,142,Medium Dark Flesh,150,84,CC702A,312,Medium Nougat,,,,Prince of Persia
+BlackGoldGlitter,0,Speckle Black-Gold,151,,,,,,,,
+LtAqua,0,Light Aqua,152,323,ADC3C0,323,Aqua,,,,new in 2011
+DkAzure,3,Dark Azure,153,321,078BC9,321,Dark Azur,,,,new in 2011
+Lavender,0,Lavender,154,,,,,,,,
+OliveGreen,0,Olive Green,155,,,,,,,,
+MdAzure,0,Medium Azure,156,,,,,,,,
+MdLavender ,0,Medium Lavender,157,,,,,,,,
